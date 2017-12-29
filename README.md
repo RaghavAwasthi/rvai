@@ -45,7 +45,7 @@ The app using custom encryption techniques to encrypt your data traffic across n
  | 29 MARCH 2017      |Inspired by a web series|
  | 20 APRIL 2017      |Project Started with name Raghav Virtual Artificial Intelligence|
  | 25 APRIL 2017      |Necessary email ids were created|
- | 19 MAY 2017 |      |Inspired by Google IO Conference 2017|
+ | 19 MAY 2017        |Inspired by Google IO Conference 2017|
  | 5 JUNE 2017        |Wasted previous month watching entire IO conference|
  | 28 JUNE 2017       |Inspired by web series A.I.sha My Virtual Girlfriend|
  | 2 JULY 2017        |Modified the Project for Virtual Girlfriend Concept|
