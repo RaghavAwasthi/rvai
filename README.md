@@ -93,8 +93,9 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
  
 ## DOWNLOAD
+ `Downloads have been disabled`
+  Downloads will be allowed very soon Follow our [FB page for updates](https://www.facebook.com/rvartificialintelligence/)
  
- `Downloads have been disabled .Try again later(global_UTC.toString()) or Contact Support[developer.rvai@gmail.com]`
  
  
  
