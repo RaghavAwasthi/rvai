@@ -17,12 +17,12 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
 ## What are the requirements
  
- ### Android
+### Android
   Minimum Android 5.0.0 is neccessary
   
 
  
- ## Timeline
+## Timeline
  The Timeline showcases the completed,upcoming and ongoing Tasks
  
  
@@ -88,13 +88,13 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
  
  
- ### FUTURE TIMELINE
+### FUTURE TIMELINE
  
  `Pending`
  
  
  
- ## DOWNLOAD
+## DOWNLOAD
  
  `Downloads have been disabled .Try again later(global_UTC.toString()) or Contact Support[developer.rvai@gmail.com]`
  
@@ -102,7 +102,7 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
  
   
- ## Support or Contact
+## Support or Contact
 
 - Having any trouble or issues Contact us at e-mail [developer.rvai@gmail.com] 
 - If the issue is not resolved within 24 hours then write to us at [grievances.rvai@gmail.com]
