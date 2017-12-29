@@ -16,8 +16,6 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
  
 ## What are the requirements
- 
-### Android
   Minimum Android 5.0.0 is neccessary
   
 
@@ -88,7 +86,7 @@ The app using custom encryption techniques to encrypt your data traffic across n
  
  
  
-### FUTURE TIMELINE
+## FUTURE TIMELINE
  
  `Pending`
  
