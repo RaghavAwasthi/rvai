@@ -71,12 +71,15 @@ The app using custom encryption techniques to encrypt your data traffic across n
  |30 OCTOBER 2017     |Created a weekly Backup Protocol to Google Drive|
  |1 NOVEMBER 2017     |Deployed Databases to Google Firebase |
  |5 NOVEMBER 2017     |Hosted content to Microsoft Azure|
- |18 NOVEMBER 2017    |Told to friends about the app|
- |19 NOVEMBER 2017    |Started a secondary free version |
- |19 NOVEMBER 2017    |Prepared for Transfer of Files to Google Cloud Platform|
- |20 NOVEMBER 2017    |Degraded services for FREE versions and other patches|
- |21 NOVEMBER 2017    |Whatsapp POLICY violations resolved |
- |21 NOVEMBER 2017    |Planned For 3 different release versions|
+ |20 NOVEMBER 2017    |Project Halted |
+ |18 DECEMBER 2017    |Told to friends about the app|
+ |19 DECEMBER 2017    |Started a secondary free version |
+ |19 DECEMBER 2017    |Prepared for Transfer of Files to Google Cloud Platform|
+ |20 DECEMBER 2017    |FREE version was created on request of few friends|
+ |20 DECEMBER 2017    |Degraded services for FREE versions and other patches|
+ |21 DECEMBER 2017    |Whatsapp POLICY violations resolved |
+ |21 DECEMBER 2017    |Planned For 3 different release versions|
+ |21 DECEMBER 2017    |CREATED a Personal Version of app with all dedicated features|
  |22 DECEMBER 2017    |Transfer complete to Firebase and other associated services|
  |24 DECEMBER 2017    |Release Postponed again|
  |25 DECEMBER 2017    |Patches to fix issues on certain RedMI and Samsung devices|
