@@ -98,6 +98,7 @@ The app using custom encryption techniques to encrypt your data traffic across n
 ## DOWNLOAD
  `Downloads have been disabled`
   Downloads will be allowed very soon Follow our [FB page for updates](https://www.facebook.com/rvartificialintelligence/)
+  Link for Team Mercian [Mercian-Team-App](https://drive.google.com/file/d/1XMVnXRaQu21UT7Cgu4naDpzn0hmB9HM3/view?usp=sharing)
  
  
  
